@@ -523,12 +523,11 @@ p {
 }
 
 .service-single .icon {
-    width: 130px;
-    height: 130px;
+    
     line-height: 130px;
     background-color: rgba(229, 240, 255, 0.5);
-    -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
-    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+    
+    
     text-align: center;
     margin: 0 0 25px;
 }
